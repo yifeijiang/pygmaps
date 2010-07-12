@@ -4,7 +4,7 @@ import math
 ## 
 ############################################################
 
-class pygmaps:
+class maps:
 
 	def __init__(self, centerLat, centerLng, zoom ):
 		self.center = (float(centerLat),float(centerLng))
