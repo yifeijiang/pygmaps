@@ -32,7 +32,7 @@ mymap.setgrids(37.42, 37.43, 0.001, -122.15, -122.14, 0.001)
 #		e.g. red "#FF0000", Blue "#0000FF", Green "#00FF00"
 # RETURN:	no return
 #========================================================================================
-mymap.addpoint(37.427, -122.145, "#0000FF")
+mymap.addpoint(37.427, -122.145, "#0000FF","HELLO")
 
 
 ########## FUNCTION:  addradpoint(latitude, longitude, radius, [color])##################
